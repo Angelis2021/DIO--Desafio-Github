@@ -1,0 +1,105 @@
+#corpo{
+    background-color: #D4F1F4;
+}
+
+#conteiner{
+    height:200.05px;
+    width: 100%;
+    margin: auto;
+    
+
+}
+
+
+#logo{
+    margin:auto;
+    height:200px;
+    width:1335px;
+    background-color: #75E6DA;
+    position:relative;  
+    top:3px;
+}  
+    
+
+#titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:300%;
+    text-align: center;
+    text-shadow:5px;
+    border-color: black;
+    position: absolute;
+    top: 10%;
+    margin-left: 45%;
+    margin-top: -5%;
+  
+}
+#titulo2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    text-shadow:5px;
+    border-color: black;
+    position: absolute;
+    top: 20%;
+    margin-left: 35%;
+}
+
+#post_title{
+color: rgb(2, 2, 2);
+}
+
+#article1{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:22px;
+    top: -5px;
+    text-align: center;
+    
+}
+
+.article2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:22px;
+    top: -10px;
+    text-align:center;
+
+}
+
+.coluna{
+    margin:0 auto;
+    background-color: aliceblue;
+    
+}
+.lista{
+  display:flex;  
+  height: 50%;
+  width: 50%;
+  padding: -1px;
+  float:left;
+  background-color: #cccccc;
+  top:5%;
+  justify-content:space-around;
+}
+
+#imagem{
+    display:flex;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    padding: 1px;
+    vertical-align: 5px;
+  
+}
+
+#rodape{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:medium;
+    font-style: oblique;
+    border: 5px;
+    border-width: 1335px;
+    height:90px;
+    background-color: #59c5e2;
+    vertical-align: 5%;
+    margin-top: 5px;
+}
