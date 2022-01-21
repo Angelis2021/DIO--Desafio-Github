@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(105, 194, 194);
+    margin: 0;
+    padding: 0;
+}
+.barra{
+    background-color: white;
+    font-size:50%;
+    text-align: center;
+    border-radius: 5rem;
+    margin-top: 1rem;
+   
+
+}
+.Introducao{
+    background-color: rgb(204, 204, 140);
+    border-radius:5rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+.lista{
+    margin-top: 1cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left:3cm;
+    font:2rem;
+       
+}
+.list{
+    background-color: rgb(181, 209, 233);
+    padding-left: 1cm;
+    margin-bottom: 1cm;
+    padding-left: 3cm;
+    padding-top:15px;
+    justify-items: center;
+}
+.imagem{
+    padding-left: 2cm;
+   margin-top: 2rem;
+    margin-bottom: 1cm;
+
+
+}
+.pe{
+
+    background-color:rgba(95, 95, 145, 0.637);
+    font-size: large;
+    bottom: 0;
+    text-align: center;
+    border-radius: 20px;
+    position:-ms-page;    
+}
+
